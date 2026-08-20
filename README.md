@@ -111,34 +111,6 @@ Achieved AIR 266 in NIMCET 2024, demonstrating strong aptitude in mathematics an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkumrawat21&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkumrawat21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruvkumrawat21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvkumrawat21&theme=tokyo-night&hide_border=true" alt="Dhruv's GitHub Activity Graph" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
