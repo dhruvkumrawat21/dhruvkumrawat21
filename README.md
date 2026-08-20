@@ -124,4 +124,4 @@ Achieved AIR 266 in NIMCET 2024, demonstrating strong aptitude in mathematics an
 
 ---
 
-### 💻 *"Building solutions, solving problems, and continuously learning."*n your GitHub profile.
+### 💻 *"Building solutions, solving problems, and continuously learning."*
