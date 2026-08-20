@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **dhruvkumrawat21/dhruvkumrawat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears o# 👋 Hi, I'm Dhruv Kumrawat
 
 ### MCA @ NIT Warangal | Aspiring Software Engineer | Full-Stack Developer | Problem Solver
